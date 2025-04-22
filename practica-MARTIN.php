@@ -1,10 +1,12 @@
 <?php
 
-namespace TAREA04\modelo;
+namespace DAWUD05\TAREA05\modelo;
 
 use TAREA04\modelo\IGuardableOMM;
 
 /**
+ * ESTA ES UNA MODIFICACIÓN PARA COMPROBAR EL CONTROL DE VERSIONES CON GIT
+ * 
  * Clase que permite crear instancias en las que sa almacenan datos 
  * relativos a un libro como son autor, titulo, fecha de publicación.
  * Implementa una serie de métodos definidos en la interfaz IGuardable
